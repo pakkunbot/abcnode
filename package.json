@@ -1,5 +1,5 @@
 {
-  "name": "abcnode",
+  "name": "abcnode-pakkunbot",
   "id": "abcnode",
   "version": "0.0.2",
   "description": "ABC notation parser for JavaScript",
